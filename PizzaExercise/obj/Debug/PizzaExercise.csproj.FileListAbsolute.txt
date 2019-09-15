@@ -1,0 +1,16 @@
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\PizzaExercise.exe.config
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\PizzaExercise.exe
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\PizzaExercise.pdb
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\RestSharp.dll
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\RestSharp.xml
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\obj\Debug\PizzaExercise.csprojResolveAssemblyReference.cache
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\obj\Debug\PizzaExercise.Form1.resources
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\obj\Debug\PizzaExercise.Properties.Resources.resources
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\obj\Debug\PizzaExercise.csproj.GenerateResource.Cache
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\obj\Debug\PizzaExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\obj\Debug\PizzaExercise.exe
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\obj\Debug\PizzaExercise.pdb
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Hamed\source\repos\PizzaExercise\PizzaExercise\bin\Debug\System.Net.Http.Formatting.xml
